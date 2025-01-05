@@ -9,7 +9,7 @@ export default function Home() {
           <Image src="/profile.jpg" alt="Muhammad Naveed" width={200} height={200} className="rounded-full" />
         </div>
         <h1 className="animate-fade-in">Welcome to My Portfolio</h1>
-        <p className="animate-fade-in-delay">Hi, I'm Muhammad Naveed. I'm a web developer passionate about creating beautiful and functional websites.</p>
+        <p className="animate-fade-in-delay">Hi, I&apos;m Muhammad Naveed. I&apos;m a web developer passionate about creating beautiful and functional websites.</p>
         <div className="button-group animate-fade-in-delay">
           <Link href="/projects" className="cta-button">
             View My Work

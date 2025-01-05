@@ -10,10 +10,10 @@ export default function About() {
             <Image src="/profile.jpg" alt="Muhammad Naveed" width={400} height={400} className="rounded-lg" />
           </div>
           <div className="about-text animate-fade-in-delay">
-            <p>Hello! I'm Muhammad Naveed, a passionate web developer with 2 years of experience in creating responsive and user-friendly web applications.</p>
-            <p>My journey in web development started in 2023. Since then, I've been constantly learning and improving my skills to stay up-to-date with the latest technologies and best practices.</p>
+            <p>Hello! I&apos;m Muhammad Naveed, a passionate web developer with 2 years of experience in creating responsive and user-friendly web applications.</p>
+            <p>My journey in web development started in 2023. Since then, I&apos;ve been constantly learning and improving my skills to stay up-to-date with the latest technologies and best practices.</p>
             <p>I specialize in front-end development, React, Node.js, etc. My goal is to create web applications that not only look great but also provide an excellent user experience.</p>
-            <p>When I'm not coding, you can find me playing video games or experimenting with new technologies.</p>
+            <p>When I&apos;m not coding, you can find me playing video games or experimenting with new technologies.</p>
             <a href="/path-to-your-cv.pdf" download className="cta-button">
               Download CV
             </a>
